@@ -1,7 +1,4 @@
-[servers.min]
-name = "ttk"
-addr = "47.97.249.37"
-pass = "123Ttk."
+
 
 [servers.aliyun]
 name = "ubuntu"
