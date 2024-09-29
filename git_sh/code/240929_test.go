@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// GetDayInfo returns the current date in YYMMDD format qwmqwm
+// GetDayInfo returns the current date in YYMMDD format qwmqwmzyhzyh
 func GetDayInfo() string {
     return "240929"
 }
