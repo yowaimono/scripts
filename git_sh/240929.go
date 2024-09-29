@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-// GetCurrentDayInfo returns the current date in YYYY-MM-DD format
-func GetCurrentDayInfo() string {
-    return "2024-09-29"
+// GetDayInfo returns the current date in YYMMDD format
+func GetDayInfo() string {
+    return "240929"
 }
 
 func main() {
-    fmt.Println(GetCurrentDayInfo())
+    fmt.Println(GetDayInfo())
 }
